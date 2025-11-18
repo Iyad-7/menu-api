@@ -171,7 +171,7 @@ http://localhost:3000
 
 ## 📌 **8. GitHub Repository Link**
 
-[https://github.com/Niyaaaaz/menu-api.git]
+[https://github.com/Iyad-7/menu-api.git]
 
 ---
 
@@ -179,5 +179,6 @@ http://localhost:3000
 
 **Name:** Iyad
 **Project:** Restaurant Menu Display API
+
 
 
