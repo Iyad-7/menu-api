@@ -177,6 +177,7 @@ http://localhost:3000
 
 ## 📌 **9. Author Information**
 
-**Name:** Niyaz AM
+**Name:** Iyad
 **Project:** Restaurant Menu Display API
+
 
